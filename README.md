@@ -14,6 +14,9 @@ This repo is still in progress. It uses Angular 5 and Node Express as the server
 
  `ng build -prod --build-optimizer --app 0 ng build --aot --app 1`
 
+ If nothing breaks in this step, go ahead and hit 
+ `npm run build && node dist/server.js`
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
