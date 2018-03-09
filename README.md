@@ -1,4 +1,4 @@
-# SEO friendly Angular 5 application using Server Side Rendering
+# SEO friendly Angular 5 application using Server Side Rendering with AOT
 
 ## Developed By:
 Ritwik banerjee
