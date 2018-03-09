@@ -25,6 +25,12 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
+## TODO:
+* Implement lazy loading
+* Use webpack dev server for constant updation during development
+* Integrate a third party CSS framework
+* Implement any 1 auth module
+
 ## Further help
 
 Reach out to me @ ritwik2011@gmail.com
