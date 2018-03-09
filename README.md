@@ -1,18 +1,18 @@
-# Ritwikbanerjee
+# SEO friendly Angular 5 application using Server Side Rendering
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+## Developed By:
+Ritwik banerjee
 
-## Development server
+### Note:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This repo is still in progress. It uses Angular 5 and Node Express as the server set up
 
 ## Build
+ After cloning the copy, hit npm install
+ Following that, to check if everything works just fine, 
+ run:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+ `ng build -prod --build-optimizer --app 0 ng build --aot --app 1`
 
 ## Running unit tests
 
@@ -24,4 +24,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Reach out to me @ ritwik2011@gmail.com
